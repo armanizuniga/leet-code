@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56ff973-ddce-4193-af04-ca818c1f77d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode-python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/concat_of_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/arrays/test_concat_of_arrays.py" afterDir="false" />
-    </list>
+    <list default="true" id="a56ff973-ddce-4193-af04-ca818c1f77d6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
